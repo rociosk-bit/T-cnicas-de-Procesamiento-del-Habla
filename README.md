@@ -9,9 +9,9 @@
 
 ## 🔍 Contenido
 
-- ✨ Preprocesamiento y representación de texto 
-- 🎯 Redes Neuronales Recurrentes (RNN) y variantes 
-- 📊 Redes Neuronales Convolucionales (CNN) aplicadas al PLN 
+- 📖 Preprocesamiento y representación de texto 
+- ✨ Redes Neuronales Recurrentes (RNN) y variantes 
+- 🌐 Redes Neuronales Convolucionales (CNN) aplicadas al PLN 
 - ⚡ Modelos Transformer y mecanismos de atención 
 - 🤖 Fine-tuning de modelos pre-entrenados 
 - 🚀 Aplicaciones avanzadas: generación de texto, análisis de sentimientos y más 
@@ -23,7 +23,7 @@
 ## 🧠 Habilidades desarrolladas
 
 - 🧪 Técnicas para extraer, limpiar y representar texto.
-- 🎯 Implementación de arquitecturas avanzadas (RNN, CNN, Transformers).
+- 🔗 Implementación de arquitecturas avanzadas (RNN, CNN, Transformers).
 - 📊 Análisis y visualización de resultados aplicados al lenguaje humano.
 
 ---
@@ -34,4 +34,4 @@ Aplicar técnicas fundamentales y herramientas del procesamiento del habla y del
 
 ---
 
-🌐📖
+📖
