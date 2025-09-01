@@ -1,4 +1,4 @@
-# 🎙️🔊 Técnicas del Procesamiento del Habla 
+# 🎙️🔊 Técnicas de Procesamiento del Habla 
 
  
 📚 Materia de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial🏫
