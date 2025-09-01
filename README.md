@@ -10,8 +10,8 @@
 ## 🔍 Contenido
 
 - 📖 Preprocesamiento y representación de texto 
-- ✨ Redes Neuronales Recurrentes (RNN) y variantes 
-- 🌐 Redes Neuronales Convolucionales (CNN) aplicadas al PLN 
+- ✨ Redes Neuronales Recurrentes (RNN) 
+- 🌐 Redes Neuronales Convolucionales (CNN) 
 - ⚡ Modelos Transformer y mecanismos de atención 
 - 🤖 Fine-tuning de modelos pre-entrenados 
 - 🚀 Aplicaciones avanzadas: generación de texto, análisis de sentimientos y más 
